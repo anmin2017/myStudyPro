@@ -1,0 +1,8 @@
+继承：
+1） 权限大小: private < 默认的 < protected < public 
+
+2) extends 关键字用来声明继承关系；
+
+3）继承关系是一种IS-A关系;:
+
+4) instanceof,用来判断对象是否属于某种类型

@@ -1,0 +1,6 @@
+read:阅读
+week:周，星期
+apple:苹果
+pear:梨子
+red:红色
+yellow:黄色
